@@ -1,0 +1,161 @@
+body {
+    font-family:'111';
+    background-color:plum;
+    color: #333;
+    text-align: center;
+    padding: 35px;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color:whitesmoke;
+    font: size 40px;cm
+    font-family: '111';
+}
+p{
+    color: purple;
+    font-size: large;
+    font-family: '111';
+}
+@font-face{
+    font-family:'222';
+    src:url('/222.ttf') format('truetype');
+    
+}
+@font-face{
+    font-family:'111';
+    src:url('/111.ttf') format('truetype');
+    
+}
+
+#flavorList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#flavorList li {
+    text-align: left;
+    font-family: '111';
+    border-bottom: 1px solid #eee;
+    padding: 8px;
+}
+
+#milkButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#milkButton:hover {
+    background-color: purple;
+}
+
+#blackteaButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#blackteaButton:hover {
+    background-color: purple;
+}
+
+
+#condensedmilkButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#condensedmilkButton:hover {
+    background-color: purple;
+}
+
+#bobaButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#bobaButton:hover {
+    background-color: purple;
+}
+
+#thaiButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#thaiButton:hover {
+    background-color: purple;
+}
+#grassButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#grassButton:hover {
+    background-color: purple;
+}
+#puddingButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#puddingButton:hover {
+    background-color: purple;
+}
+#sugarButton {
+    font-family: '111';
+    background-color: plum;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#sugarButton:hover {
+    background-color: purple;
+}
+
+
